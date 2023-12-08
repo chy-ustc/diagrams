@@ -1,9 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:00:36.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="Daw1Y2ek8pqlLoftPJh5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T04:17:18.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="29PIn93VoWMSCP1NqzC0" version="22.1.7" type="github">
   <diagram name="第 1 页" id="a-9LGfeV_pb7Qc5G7HI7">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nkLE2eKXsC144ORUiM3O-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkLE2eKXsC144ORUiM3O-2" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nkLE2eKXsC144ORUiM3O-1" target="nkLE2eKXsC144ORUiM3O-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nkLE2eKXsC144ORUiM3O-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;外界事件&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="140" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nkLE2eKXsC144ORUiM3O-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="343" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
