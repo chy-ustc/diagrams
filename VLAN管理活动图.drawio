@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" modified="2023-12-17T09:36:19.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KtyPcWRjci6WfrfCCVYy" version="22.1.11" type="github">
+  <diagram name="第 1 页" id="a-9LGfeV_pb7Qc5G7HI7">
+    <mxGraphModel dx="1026" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-30" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-30" target="IOmbqifxdDwyBCTQqHsa-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-33" target="IOmbqifxdDwyBCTQqHsa-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="220" />
+              <mxPoint x="263" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;外界输入&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.146;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-38" target="IOmbqifxdDwyBCTQqHsa-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="229" />
+              <mxPoint x="143" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IOmbqifxdDwyBCTQqHsa-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-38" target="IOmbqifxdDwyBCTQqHsa-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-38" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="410" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-40" target="IOmbqifxdDwyBCTQqHsa-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户查询接口VLAN配置&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-42" target="IOmbqifxdDwyBCTQqHsa-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="143" y="530" />
+              <mxPoint x="263" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;返回接口VLAN配置数据&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-44" target="IOmbqifxdDwyBCTQqHsa-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接口允许VLAN范围变化&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-55" target="IOmbqifxdDwyBCTQqHsa-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接口加入/退出VLAN&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-57" target="IOmbqifxdDwyBCTQqHsa-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-57" target="IOmbqifxdDwyBCTQqHsa-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;循环调用&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IOmbqifxdDwyBCTQqHsa-72">
+          <mxGeometry x="0.2814" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;激励状态机\初始化状态机数据&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-58" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-62" target="IOmbqifxdDwyBCTQqHsa-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发送join\leave消息&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IOmbqifxdDwyBCTQqHsa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOmbqifxdDwyBCTQqHsa-58" target="IOmbqifxdDwyBCTQqHsa-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
